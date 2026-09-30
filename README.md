@@ -18,4 +18,4 @@ Start the development server with `deno task dev` and open the local address it 
 
 ## Assistance
 
-I wrote the application changes and the original Chinese project description myself. Codex translated and formatted this description, checked formatting, helped set up the development environment and repository, and tested the application. Codex also assisted with Git and deployment.
+I wrote the original Chinese project description. The application changes used assistance from DeepSeek. Codex translated and formatted this description, checked formatting, helped set up the development environment and repository, and tested the application. Codex also assisted with Git and deployment.
